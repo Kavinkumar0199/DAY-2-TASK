@@ -1,0 +1,19 @@
+Write a blog on difference between document and window objects :
+
+WINDOW OBJECT :-
+
+* It is a main object that contains a DOM document
+* All datas geeting loaded first in window browser only
+* A whole object / screen can be seen in a single window
+* It is a global object can verify any properties in this object
+* It is represented by web browser
+* It contains frames and tags
+
+DOCUMENT OBJECT :-
+
+* It is a property og window object
+* Tt is shown inside of the window object
+* Only a particular screen can seen in this object
+* HTML documents can loaded only in this document object
+* It is a root of document itself
+* It is used for display and modification of source codes
